@@ -14,17 +14,20 @@
 - Silent clicking
 - Scroll direction: not natural. the good one.
 ## 2. download some stuff
+### general
 * alfred - improved shortcuts
 * firefox - non-dev browser
-* chrome - dev browser
-* iterm 2 - terminal
 * lastpass - password management
-* VS code - text editor
 * evernote - note-taking
 * slack - work and larp communication
 * todoist - to do lists
+* deckset - presentations
+* spectacle - window management
+### code
+* chrome - dev browser
+* iterm 2 - terminal
+* VS code - text editor
+### fun
 * discord - friends & other communities
 * itch - indie games
 * steam - less-indie games
-* deckset - presentations
-* spectacle - window management
