@@ -13,9 +13,6 @@
 - Tap to click
 - Silent clicking
 - Scroll direction: not natural. the good one.
-
-- try
-
 ## 2. download some stuff
 * alfred - improved shortcuts
 * firefox - non-dev browser
