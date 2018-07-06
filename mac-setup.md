@@ -25,6 +25,7 @@
 * spectacle - window management
 * private internet access - VPN
 * google drive backup and sync - docs and cloud storage
+* synergy - use one keyboard/mouse for several computers
 ### code & design
 * chrome - dev browser
 * iterm 2 - terminal
