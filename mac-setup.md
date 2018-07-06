@@ -23,10 +23,14 @@
 * todoist - to do lists
 * deckset - presentations
 * spectacle - window management
-### code
+* private internet access - VPN
+* google drive backup and sync - docs and cloud storage
+### code & design
 * chrome - dev browser
 * iterm 2 - terminal
 * VS code - text editor
+* sketch - digital design
+* sip - color picker
 ### fun
 * discord - friends & other communities
 * itch - indie games
