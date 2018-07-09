@@ -32,6 +32,7 @@
 * VS code - text editor
 * sketch - digital design
 * sip - color picker
+* the noun project - icons
 ### fun
 * discord - friends & other communities
 * itch - indie games
