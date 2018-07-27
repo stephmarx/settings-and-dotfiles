@@ -23,17 +23,23 @@
 * [todoist](https://en.todoist.com/) - to do lists
 * [deckset](https://www.deckset.com/) - presentations
 * [spectacle](https://www.spectacleapp.com/) - window management
-* private internet access - VPN
-* google drive backup and sync - docs and cloud storage
-* synergy - use one keyboard/mouse for several computers
+* [private internet access](https://www.privateinternetaccess.com/pages/downloads) - VPN
+* [google drive backup and sync](https://www.google.com/drive/download/backup-and-sync/) - docs and cloud storage
+* [synergy](https://symless.com/synergy) - use one keyboard/mouse for several computers. don't forget to enter license key!
+* [istycal](https://www.mowglii.com/itsycal/) - a topbar calendar.
+* [ccleaner](https://www.ccleaner.com/ccleaner/download) - tidying up files.
+* [istats menus](https://bjango.com/mac/istatmenus/) - additional menubar items. don't forget to enter license key. 
+* [tomighty](https://tomighty.en.softonic.com/) - tomato timer 
 ### code & design
-* chrome - dev browser
-* iterm 2 - terminal
-* VS code - text editor
-* sketch - digital design
-* sip - color picker
-* the noun project - icons
+* [chrome](https://www.google.com/intl/en/chrome/browser/) - dev browser
+* [iterm 2](https://iterm2.com/downloads.html) - terminal
+* [VS code](https://code.visualstudio.com/Download) - text editor
+* [sketch](https://www.sketchapp.com/) - digital design
+* [sip](http://sipapp.io/) - color picker
+* [the noun project](https://thenounproject.com/) - icons
+* [filezilla](https://filezilla-project.org/download.php) - FTP
 ### fun
-* discord - friends & other communities
-* itch - indie games
-* steam - less-indie games
+* [discord](https://discordapp.com/download) - friends & other communities
+* [itch](https://itch.io/app) - indie games
+* [steam](http://store.steampowered.com/) - less-indie games
+* [helium](https://helium.en.softonic.com/mac) - show videos above other windows.
